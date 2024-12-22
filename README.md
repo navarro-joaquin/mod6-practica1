@@ -1,4 +1,6 @@
-# practica1
+# practica1 - Modulo 6 (Vue)
+
+> Created by [Alvaro Joaquin Navarro Cors](https://github.com/navarro-joaquin)
 
 ## Project setup
 ```
